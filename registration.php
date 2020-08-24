@@ -1,3 +1,3 @@
 <?php
 
-echo 'This is registration feature';
+echo 'This is registration feature.';
